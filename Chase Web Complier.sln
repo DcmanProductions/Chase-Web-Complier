@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleFont2Local", "GoogleFont2Local\GoogleFont2Local.csproj", "{8048D41F-B858-48F5-861D-CDBD18EA9275}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMinification", "CodeMinification\CodeMinification.csproj", "{DFBEED92-5014-43E1-A0AB-E57635E95A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultimediaCompression", "MultimediaCompression\MultimediaCompression.csproj", "{D64D68F2-625D-475C-B62D-4FD05EC13E80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{F300F3DE-AED8-4ECF-90F1-D3B5613BF14A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8048D41F-B858-48F5-861D-CDBD18EA9275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8048D41F-B858-48F5-861D-CDBD18EA9275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8048D41F-B858-48F5-861D-CDBD18EA9275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8048D41F-B858-48F5-861D-CDBD18EA9275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBEED92-5014-43E1-A0AB-E57635E95A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBEED92-5014-43E1-A0AB-E57635E95A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBEED92-5014-43E1-A0AB-E57635E95A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBEED92-5014-43E1-A0AB-E57635E95A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D64D68F2-625D-475C-B62D-4FD05EC13E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64D68F2-625D-475C-B62D-4FD05EC13E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64D68F2-625D-475C-B62D-4FD05EC13E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64D68F2-625D-475C-B62D-4FD05EC13E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F300F3DE-AED8-4ECF-90F1-D3B5613BF14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F300F3DE-AED8-4ECF-90F1-D3B5613BF14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F300F3DE-AED8-4ECF-90F1-D3B5613BF14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F300F3DE-AED8-4ECF-90F1-D3B5613BF14A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {207CF617-2113-471E-B947-393613BC194C}
+	EndGlobalSection
+EndGlobal
