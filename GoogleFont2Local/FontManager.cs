@@ -1,7 +1,7 @@
 ﻿// LFInteractive LLC. - All Rights Reserved
 using Serilog;
 
-namespace GoogleFont2Local;
+namespace ChaseWebComplier.GoogleFont2Local;
 
 public static class FontManager
 {
